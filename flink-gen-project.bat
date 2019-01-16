@@ -1,0 +1,1 @@
+mvn archetype:generate -DarchetypeGroupId=org.apache.flink -DarchetypeArtifactId=flink-quickstart-java -DarchetypeVersion=1.7.1 -DgroupId=net1qian-flink-quick-start -DartifactId=net1qian-flink-ctp-demo -Dversion=0.1 -Dpackage=net1qian.flink.ctp.csv
